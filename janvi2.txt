@@ -3,4 +3,6 @@ next branch
 feature1 branch added
 with git checkout -b feature1
 created head as feature1
+pull request done with github 
+and merged 
 

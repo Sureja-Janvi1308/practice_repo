@@ -3,5 +3,6 @@ start:
 first config user.name
 user.email
 pull done with git pull origin main
+git rebase main
 
 

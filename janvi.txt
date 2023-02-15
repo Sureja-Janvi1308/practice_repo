@@ -1,3 +1,6 @@
-hii janvi
-commit done
+git practical 
+start:
+first config user.name
+user.email
+
 
